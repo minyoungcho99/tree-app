@@ -1,6 +1,6 @@
 # Treeviz
 
-> A visual, user-centered tool to help Georgia Tech students understand, organize, and optimize course prerequisite chains.
+>  🌲 A visual, user-centered tool to help Georgia Tech students understand, organize, and optimize course prerequisite chains.
 
 ## Team Members
 
@@ -25,3 +25,12 @@ Most Georgia Tech students run into issues when trying to plan out their courses
 To address this, we’ve framed our problem as:
 
 > *New college students require a user-friendly and guided platform to effectively manage and comprehend complex prerequisite chains for their courses. However, they often face challenges with initial navigation and effective organization due to a less intuitive user interface and a lack of instructional support, making their first-time experience frustrating and inefficient.*
+
+---
+## 🛠Tech Stack
+
+- **React Native (with Expo)** 
+- **Firebase Firestore** 
+- **JavaScript / JSX**
+- **Figma** 
+- **User Research & Testing**
