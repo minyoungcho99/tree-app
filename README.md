@@ -1,6 +1,6 @@
 # Treeviz
 
-> A smarter way for Georgia Tech students to plan courses and navigate prerequisite chains.
+> A visual, user-centered tool to help Georgia Tech students understand, organize, and optimize course prerequisite chains.
 
 ## Team Members
 
@@ -13,14 +13,16 @@
 
 ## Overview
 
-**Treeviz** addresses a common pain point for college students: course registration. Specifically, it tackles the challenge of tracking complex prerequisite chains when planning out a degree.
-
-While current tools like DegreeWorks, GT Scheduler, and Oscar exist, they each fall short when it comes to giving students a clear, interactive path through their coursework. Treeviz fills this gap with a solution that is **intuitive**, **interactive**, and **tailored for Georgia Tech**.
+**Treeviz** was born out of a common frustration: course registration is confusing. Students often struggle to visualize the prerequisites required for the classes they want to take — especially when prerequisites span multiple semesters or form complex AND/OR chains. Existing tools like Oscar, DegreeWorks, and GT Scheduler either lack visual clarity, are outdated, or do not support holistic long-term planning.
 
 ---
 
 ## Problem Statement
 
-Most Georgia Tech students run into issues when trying to plan out their courses across semesters. Long chains of prerequisites make it hard to decide which classes to take and when. Missing just one can delay graduation.
+Most Georgia Tech students run into issues when trying to plan out their courses across semesters. Long chains of prerequisites make it hard to decide which classes to take and when. Missing even one course in a chain can delay graduation.
 
-> Students may need complex chains of prerequisites to take a course in college, but it is difficult to find and track all of those prerequisites in order to make a plausible plan.
+To address this, we’ve framed our problem as:
+
+> *New college students require a user-friendly and guided platform to effectively manage and comprehend complex prerequisite chains for their courses. However, they often face challenges with initial navigation and effective organization due to a less intuitive user interface and a lack of instructional support, making their first-time experience frustrating and inefficient.*
+
+
