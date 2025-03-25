@@ -29,8 +29,8 @@ To address this, we’ve framed our problem as:
 ---
 ## 🛠Tech Stack
 
-- **React Native (with Expo)** 
-- **Firebase Firestore** 
-- **JavaScript / JSX**
-- **Figma** 
-- **User Research & Testing**
+- React Native (with Expo) 
+- Firebase Firestore
+- JavaScript / JSX
+- Figma 
+- User Research & Testing
