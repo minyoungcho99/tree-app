@@ -9,6 +9,7 @@
 - **SungJae Chung** – [schung333@gatech.edu](mailto:schung333@gatech.edu)
 - **Aakash Prasad** – [aprasad94@gatech.edu](mailto:aprasad94@gatech.edu)
 
+
 ---
 
 ## Overview
@@ -24,5 +25,3 @@ Most Georgia Tech students run into issues when trying to plan out their courses
 To address this, we’ve framed our problem as:
 
 > *New college students require a user-friendly and guided platform to effectively manage and comprehend complex prerequisite chains for their courses. However, they often face challenges with initial navigation and effective organization due to a less intuitive user interface and a lack of instructional support, making their first-time experience frustrating and inefficient.*
-
-
